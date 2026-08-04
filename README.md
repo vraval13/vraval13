@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack & Software Engineer | AI Enthusiast | Incoming M.S. CS @ NYU
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Building+Serin+%40+Blink+Analytics;AI+%26+ML+Explorer;Incoming+M.S.+CS+%40+NYU+Tandon;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Built+Serin+%40+Blink+Analytics;AI+%26+ML+Explorer;Incoming+M.S.+CS+%40+NYU+Tandon;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vyomraval.vercel.app-05070d?style=for-the-badge&logo=vercel&logoColor=white)](https://vyomraval.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=vraval13&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/vraval13)
@@ -22,9 +22,9 @@
 ```javascript
 const vyom = {
     location: "Ahmedabad, India 🇮🇳",
-    role: "Prev SDE Intern @ Blink Analytics — Building Serin (AI Interviewer)",
+    role: "Prev SDE Intern @ Blink Analytics — Built Serin (AI Interviewer)",
     education: {
-        Prev: "B.Tech CSE (Minor: Cyber Security), Nirma University — 8.92 CGPA",
+        prev: "B.Tech CSE (Minor: Cyber Security), Nirma University — 8.92 CGPA",
         incoming: "M.S. Computer Science, NYU Tandon — Fall 2026"
     },
     stats: {
@@ -40,8 +40,8 @@ const vyom = {
 ```
 
 ### 🔭 Previously
-- 💻 **SDE Intern @ Blink Analytics** — building RESTful APIs with **Python FastAPI** for *Serin*, an AI-powered interviewer platform, with **PostgreSQL** + **GCP**
-- 🎓 Wrapping up my final year at **Nirma University**, heading to **NYU Tandon** for my M.S. in CS starting Fall 2026
+- 💻 **SDE Intern @ Blink Analytics** *(Dec 2025 → Jul 2026)* — built RESTful APIs with **Python FastAPI** for *Serin*, an AI-powered interviewer platform, with **PostgreSQL** + **GCP**
+- 🎓 Wrapped up my final year at **Nirma University**, heading to **NYU Tandon** for my M.S. in CS starting Fall 2026
 - 🧠 Actively solving problems across **LeetCode**, **Codeforces**, and **CodeChef**
 
 ### 💡 What Drives Me
@@ -53,7 +53,7 @@ I build clean interfaces, reliable APIs, and ML-powered products end-to-end. Fro
 
 | Role | Company | Duration | Stack |
 |---|---|---|---|
-| **SDE Intern** *(current)* | Blink Analytics Pvt Ltd | Dec 2025 → Present | Python, FastAPI, PostgreSQL, GCP, REST API, TypeScript |
+| **SDE Intern** | Blink Analytics Pvt Ltd | Dec 2025 → Jul 2026 | Python, FastAPI, PostgreSQL, GCP, REST API, TypeScript |
 | **Data Analyst Intern** | Adani Ports & SEZ Pvt Ltd | May 2025 → Jul 2025 | Power BI, SQL, DAX, Google BigQuery |
 | **Full-Stack Intern** | ZealousWeb Technologies Pvt Ltd | May 2024 → Jul 2024 | Next.js, React.js, PHP, MySQL, Node.js, Express.js |
 | **Web Development Intern** | Nexus Info | May 2024 → Jun 2024 | React.js, Node.js, MySQL, JavaScript |
