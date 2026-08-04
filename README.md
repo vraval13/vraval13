@@ -22,9 +22,9 @@
 ```javascript
 const vyom = {
     location: "Ahmedabad, India 🇮🇳",
-    role: "SDE Intern @ Blink Analytics — Building Serin (AI Interviewer)",
+    role: "Prev SDE Intern @ Blink Analytics — Building Serin (AI Interviewer)",
     education: {
-        current: "B.Tech CSE (Minor: Cyber Security), Nirma University — 8.92 CGPA",
+        Prev: "B.Tech CSE (Minor: Cyber Security), Nirma University — 8.92 CGPA",
         incoming: "M.S. Computer Science, NYU Tandon — Fall 2026"
     },
     stats: {
@@ -39,7 +39,7 @@ const vyom = {
 };
 ```
 
-### 🔭 Currently
+### 🔭 Previously
 - 💻 **SDE Intern @ Blink Analytics** — building RESTful APIs with **Python FastAPI** for *Serin*, an AI-powered interviewer platform, with **PostgreSQL** + **GCP**
 - 🎓 Wrapping up my final year at **Nirma University**, heading to **NYU Tandon** for my M.S. in CS starting Fall 2026
 - 🧠 Actively solving problems across **LeetCode**, **Codeforces**, and **CodeChef**
