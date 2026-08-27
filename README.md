@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Vyom Raval
 
-### 🚀 Full-Stack & Software Engineer | AI Enthusiast | Incoming M.S. CS @ NYU
+### 🚀 Full-Stack & Software Engineer | AI Enthusiast | M.S. CS @ NYU
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Built+Serin+%40+Blink+Analytics;AI+%26+ML+Explorer;Incoming+M.S.+CS+%40+NYU+Tandon;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
