@@ -84,7 +84,7 @@ I build clean interfaces, reliable APIs, and ML-powered products end-to-end. Fro
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/v_r_13)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vraval13)
 
-📧 **Email:** vr2697@nyu.edu &nbsp;|&nbsp; 📍 **Location:** Ahmedabad, India
+📧 **Email:** vr2697@nyu.edu &nbsp;|&nbsp; 📍 **Location:** New York, NY
 
 </div>
 
