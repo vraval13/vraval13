@@ -21,9 +21,10 @@
 
 ```javascript
 const vyom = {
-    location: "Ahmedabad, India 🇮🇳",
+    location: "New York, NY 🇺🇸",
     role: "Prev SDE Intern @ Blink Analytics — Built Serin (AI Interviewer)",
     education: {
+    
         prev: "B.Tech CSE (Minor: Cyber Security), Nirma University — 8.92 CGPA",
         incoming: "M.S. Computer Science, NYU Tandon — Fall 2026"
     },
